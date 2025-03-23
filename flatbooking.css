@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bgimg {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.cart {
+    background-color: #ffffff;
+    height: 30vh;
+    width: 100vw;
+    padding: 20px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    background-size: cover;
+    text-align: center;
+}
+
+.maintitle {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 24px;
+
+}
+
+.initialLine {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.btn {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 4px;
+    text-align: center;
+    margin: 15px;
+    font-family: "Bree Serif";
+    font-size: 9px;
+}
+
+.listpage {
+    background-color: #222222;
+    padding: 15px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.secondheading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 27px;
+    padding-top: 20px;
+}
+
+.cart1 {
+    background-color: #ffffff;
+    border-radius: 7px;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 35px;
+    background-size: cover;
+    
+}
+
+.flat {
+    font-family: "Bree Serif";
+    color: #0f0e46;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 11px;
+    padding-left: 10px;
+}
+
+.info {
+    font-family: "Bree Serif";
+    color: #6c6b70;
+    font-size: 11px;
+    padding-left: 10px;
+}
+
+.photo {
+    width: 70px;
+    border-radius: 7px;
+}
+
+.background {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.logo {
+    height: 35px;
+    width: 43px;
+    padding-left: 18px;
+    padding-top: 11px;
+}
+
+.para {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 11px;
+    padding-left: 18px;
+    padding-top: 11px;
+}
+
+.refeance {
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+}
+
+.page {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 24px;
+    padding-left: 18px;
+    padding-top: 18px;
+}
